@@ -46,6 +46,9 @@ body {
   height: 124.72px;
 }
 @media screen and (max-width: 768px) {
+  body {
+    background-size: 500px;
+  }
   .hero-container {
     flex-direction: column;
     padding: 50px 20px;
